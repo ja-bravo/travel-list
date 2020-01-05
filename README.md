@@ -2,7 +2,7 @@
 
 Small app that allows you to track places you want to visit and things you want to do there.
 
-Integration with Unsplash API.
+Integration with Unsplash API. Example access key included.
 
 # Images
 
