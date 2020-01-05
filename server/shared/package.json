@@ -1,0 +1,6 @@
+{
+  "name": "travel-bucket-shared",
+  "version": "0.0.6",
+  "main": "index.ts",
+  "license": "MIT"
+}

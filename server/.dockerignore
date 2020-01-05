@@ -1,0 +1,9 @@
+nodemon.json
+*.log
+.env
+/logs
+node_modules
+.elasticbeanstalk/*
+.git
+.gitignore
+yarn.lock
